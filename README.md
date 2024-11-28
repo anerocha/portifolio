@@ -1,16 +1,8 @@
-# Portfólio Pessoal
+# React + Vite
 
-Este é um site de portfólio pessoal construído com React. Ele exibe minhas habilidades, educação, projetos e oferece um formulário de contato para os visitantes entrarem em contato comigo.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Funcionalidades
+Currently, two official plugins are available:
 
-- **Seção Sobre**: Exibe informações sobre mim, incluindo meu histórico, habilidades e projetos.
-- **Formulário de Contato**: Permite que os usuários enviem mensagens diretamente para mim através de um formulário, com integração com CAPTCHA para segurança.
-
-## Tecnologias Utilizadas
-
-- **React**: Biblioteca JavaScript para a construção de interfaces de usuário.
-- **Tailwind CSS**: Framework CSS utilitário para estilização.
-- **Web3 Forms**: Serviço para manipulação de envios de formulários com integração de API.
-- **hCaptcha**: Serviço CAPTCHA para prevenir spam.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
